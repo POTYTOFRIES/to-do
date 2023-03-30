@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Edit = () => {
+const TodoItem = () => {
   return (
     <div className='todo-list'>
       <ul>
@@ -27,4 +27,4 @@ const Edit = () => {
   )
 }
 
-export default Edit
+export default TodoItem
